@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shevchenko17/timer-app.git/static/css/main.e6c13ad2.css",
+    "main.js": "/shevchenko17/timer-app.git/static/js/main.6bdd7570.js",
+    "static/js/453.d6f1dd7f.chunk.js": "/shevchenko17/timer-app.git/static/js/453.d6f1dd7f.chunk.js",
+    "index.html": "/shevchenko17/timer-app.git/index.html",
+    "main.e6c13ad2.css.map": "/shevchenko17/timer-app.git/static/css/main.e6c13ad2.css.map",
+    "main.6bdd7570.js.map": "/shevchenko17/timer-app.git/static/js/main.6bdd7570.js.map",
+    "453.d6f1dd7f.chunk.js.map": "/shevchenko17/timer-app.git/static/js/453.d6f1dd7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6bdd7570.js"
+  ]
+}
